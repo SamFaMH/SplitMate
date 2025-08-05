@@ -3,7 +3,7 @@
 SplitMate is a lightweight group expense tracker designed to make life easier for broke uni squads, travel groups, and friend hangouts. No signup, no database—just open it, enter your group expenses, and see who needs to pay whom.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-13+-black?logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Next.js-15+-black?logo=nextdotjs" />
   <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss" />
   <img src="https://img.shields.io/badge/MVP-Lightweight-yellow" />
@@ -36,7 +36,7 @@ SplitMate is a lightweight group expense tracker designed to make life easier fo
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/splitmate.git
+git clone https://github.com/SamFaMH/SplitMate.git
 
 # Move into project directory
 cd splitmate
